@@ -2,7 +2,7 @@
 
 ## Full Stack MERN Developer | Mumbai, Maharashtra, India
 
-[![Email](https://img.shields.io/badge/Email-kalyanipujari204%40github.com-blue?style=flat-square&logo=gmail)](mailto:kalyanipujari204@github.com)
+[![Email](https://img.shields.io/badge/Email-kalyanipujari204%40github.com-blue?style=flat-square&logo=gmail)](mailto:kalyanipujari204@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kalyanipujari204-black?style=flat-square&logo=github)](https://github.com/kalyanipujari204)
 
 ### 👋 About Me
