@@ -7,7 +7,7 @@
 
 ### 👋 About Me
 
-Hello! I'm Kalyani, a passionate Full Stack Developer with expertise in MERN stack development. I thrive in dynamic environments, actively seek new challenges, and believe in continuous learning. My interests lie at the intersection of modern web development, responsive design, and innovative solutions.
+Passionate about building responsive web experiences and solving real-world problems with clean, scalable code. Always exploring new technologies and aiming to create meaningful digital solutions.
 
 ### 🎯 Career Objective
 
