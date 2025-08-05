@@ -45,21 +45,21 @@ To secure a challenging position in a forward-thinking organization where I can 
 ### 🚀 Projects
 
 **Future's Scribe – Blog Web Application** | MERN Stack, Web Speech API
-- Created a full-stack blog platform with categorized posts and pagination
-- Implemented admin dashboard with OTP email verification
-- Added voice playback feature using Web Speech API
-- Used Zustand for state management and Tailwind CSS for styling
+- Created a full-stack blog platform with categorized posts and pagination.
+- Implemented admin dashboard with OTP email verification.
+- Added voice playback feature using Web Speech API.
+- Used Zustand for state management and Tailwind CSS for styling..
 
 **Imagesnap – Dynamic Image Search Engine** | HTML, CSS, JavaScript
-- Developed responsive image search using Unsplash API
-- Enhanced search features with instant high-resolution results
-- Achieved 5,000+ image fetches with 99% success rate
+- Developed responsive image search using Unsplash API.
+- Enhanced search features with instant high-resolution results.
+- Styled with custom CSS for clean UI and optimized for mobile and desktop screens.
 
 **CinemaFlix – Movie Ticket Booking System** | Python, FastAPI, MySQL
-- Built full-stack movie ticket booking platform
-- Implemented JWT authentication and session management
-- Developed showtime filters and intuitive user interface
-- Optimized database performance for high traffic
+- Built full-stack movie ticket booking platform.
+- Implemented JWT authentication and session management.
+- Developed showtime filters and intuitive user interface.
+- Optimized database performance for high traffic.
 
 ### 🏆 Certifications
 
@@ -76,7 +76,7 @@ To secure a challenging position in a forward-thinking organization where I can 
 
 ### 🤝 Let's Connect!
 
-I'm always excited to collaborate on projects and explore new opportunities. Feel free to reach out!
+I'm always excited to collaborate on projects and explore new opportunities. !
 
 ---
 
